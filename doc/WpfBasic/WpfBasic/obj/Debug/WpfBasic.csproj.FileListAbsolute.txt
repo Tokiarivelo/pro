@@ -1,0 +1,14 @@
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\bin\Debug\WpfBasic.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\bin\Debug\WpfBasic.exe
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\bin\Debug\WpfBasic.pdb
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.csprojResolveAssemblyReference.cache
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\MainWindow.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\App.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic_MarkupCompile.cache
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic_MarkupCompile.lref
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\MainWindow.baml
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.g.resources
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.exe
+c:\users\toky\documents\visual studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.pdb

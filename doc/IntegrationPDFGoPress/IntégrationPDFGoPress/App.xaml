@@ -1,0 +1,46 @@
+﻿<Application x:Class="IntégrationPDFGoPress.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:IntégrationPDFGoPress"
+             xmlns:vm="clr-namespace:IntégrationPDFGoPress.ViewModel"
+             xmlns:vw="clr-namespace:IntégrationPDFGoPress.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.BlueGrey.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+             
+             <vm:Locator x:Key="Locator"/>
+             
+             <DataTemplate DataType="{x:Type vm:ServiceViewModel}">
+                 <vw:ServiceView/>
+             </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:MappingViewModel}">
+                <vw:MappingView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:PublicationListViewModel}">
+                <vw:PublicationListView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:SourceContactViewModel}">
+                <vw:SourceContactView/>
+            </DataTemplate>
+            <!--<Style TargetType="{x:Type ComboBox}">
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="FontFamily" Value="SegoeUI" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="VerticalContentAlignment" Value="Center" />
+            </Style>
+            <Style TargetType="{x:Type TextBox}">
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="FontFamily" Value="SegoeUI" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="VerticalContentAlignment" Value="Center" />
+            </Style>-->
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

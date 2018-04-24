@@ -1,0 +1,19 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\IntegrationPdfGoPressDB.Data.dll.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\IntegrationPdfGoPressDB.Data.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\IntegrationPdfGoPressDB.Data.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\obj\Debug\IntegrationPdfGoPressDB.Data.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\obj\Debug\IntegrationPdfGoPressDB.Data.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\IntegrationPdfGoPressDB.Data.dll.config
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\IntegrationPdfGoPressDB.Data.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\IntegrationPdfGoPressDB.Data.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\EntityFramework.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\EntityFramework.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\obj\Debug\IntegrationPdfGoPressDB.Data.csprojResolveAssemblyReference.cache
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\obj\Debug\IntegrationPdfGoPressDB.Data.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntegrationPdfGoPressDB.Data\obj\Debug\IntegrationPdfGoPressDB.Data.pdb

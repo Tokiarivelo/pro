@@ -1,0 +1,7 @@
+c:\users\toky\documents\visual studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Debug\SarviceDeplacementFiles.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Debug\SarviceDeplacementFiles.exe
+c:\users\toky\documents\visual studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Debug\SarviceDeplacementFiles.pdb
+c:\users\toky\documents\visual studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\obj\Debug\SarviceDeplacementFiles.exe
+c:\users\toky\documents\visual studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\obj\Debug\SarviceDeplacementFiles.pdb
+c:\users\toky\documents\visual studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\obj\Debug\SarviceDeplacementFiles.ProjectInstaller.resources
+c:\users\toky\documents\visual studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\obj\Debug\SarviceDeplacementFiles.csproj.GenerateResource.Cache

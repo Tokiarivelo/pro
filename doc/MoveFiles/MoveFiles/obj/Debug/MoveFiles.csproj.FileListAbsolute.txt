@@ -1,0 +1,14 @@
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\bin\Debug\MoveFiles.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\bin\Debug\MoveFiles.exe
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\bin\Debug\MoveFiles.pdb
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MainWindow.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\App.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MoveFiles_MarkupCompile.cache
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MoveFiles_MarkupCompile.lref
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MainWindow.baml
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MoveFiles.g.resources
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MoveFiles.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MoveFiles.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MoveFiles.exe
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MoveFiles.pdb
+c:\users\toky\documents\visual studio 2015\Projects\MoveFiles\MoveFiles\obj\Debug\MoveFiles.csprojResolveAssemblyReference.cache

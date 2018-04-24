@@ -1,0 +1,16 @@
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\bin\Debug\EditPdf.exe.config
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\bin\Debug\EditPdf.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\bin\Debug\EditPdf.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\bin\Debug\itextsharp.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\bin\Debug\itextsharp.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\MainWindow.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\App.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\EditPdf_MarkupCompile.cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\EditPdf_MarkupCompile.lref
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\MainWindow.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\EditPdf.g.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\EditPdf.Properties.Resources.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\EditPdf.csproj.GenerateResource.Cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\EditPdf.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\EditPdf.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\EditPdf\EditPdf\obj\Debug\EditPdf.csprojResolveAssemblyReference.cache

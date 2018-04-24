@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SourcesDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Media">
+    <Key>
+      <PropertyRef Name="MediaID" />
+    </Key>
+    <Property Name="MediaID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PRNewswireID" Type="nvarchar" MaxLength="255" />
+    <Property Name="JumboPilotID" Type="int" />
+    <Property Name="MediaScoreID" Type="int" />
+    <Property Name="MediaName" Type="nvarchar" MaxLength="255" />
+    <Property Name="DigitalRights" Type="bit" Nullable="false" />
+    <Property Name="MorningInfo" Type="bit" Nullable="false" />
+    <Property Name="AddressLine1" Type="nvarchar" MaxLength="255" />
+    <Property Name="AddressLine2" Type="nvarchar" MaxLength="255" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="255" />
+    <Property Name="City" Type="nvarchar" MaxLength="255" />
+    <Property Name="WebSite" Type="nvarchar" MaxLength="255" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="255" />
+    <Property Name="FaxNumber" Type="nvarchar" MaxLength="255" />
+    <Property Name="Email" Type="nvarchar" MaxLength="255" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="MapCountryID" Type="bigint" />
+    <Property Name="MapPeriodicityID" Type="bigint" />
+    <Property Name="MapMediaTypeID" Type="bigint" />
+    <Property Name="MapFormatID" Type="bigint" />
+    <Property Name="MapCategoryID" Type="bigint" />
+    <Property Name="MapCalendarTypeID" Type="bigint" />
+    <Property Name="MapDeliveryMethodID" Type="bigint" />
+    <Property Name="MapFocusID" Type="bigint" />
+    <Property Name="PublisherID" Type="bigint" />
+    <Property Name="Remarks" Type="nvarchar(max)" />
+    <Property Name="Active" Type="bit" Nullable="false" />
+    <Property Name="CreationDate" Type="datetime" Nullable="false" />
+    <Property Name="ModDate" Type="datetime" />
+    <Property Name="UpdateMS" Type="bit" Nullable="false" />
+    <Property Name="UpdateJP" Type="bit" Nullable="false" />
+    <Property Name="UpdateLanguageJP" Type="bit" Nullable="false" />
+    <Property Name="UpdateFigureJP" Type="bit" Nullable="false" />
+    <Property Name="UpdateFigureMS" Type="bit" Nullable="false" />
+    <Property Name="UpdateGroupJP" Type="bit" Nullable="false" />
+    <Property Name="ActiveJP" Type="bit" Nullable="false" />
+    <Property Name="ActiveMS" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="ModBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="ParentID" Type="bigint" />
+    <Property Name="RefreshAllFigures" Type="bit" Nullable="false" />
+    <Property Name="SeqLength" Type="int" />
+    <Property Name="NbOfCuttings" Type="smallint" />
+    <Property Name="Priority" Type="smallint" />
+    <Property Name="StartTime" Type="time" Precision="0" />
+    <Property Name="EndTime" Type="time" Precision="0" />
+    <Property Name="Texthandling" Type="smallint" />
+    <Property Name="RealPDF" Type="smallint" />
+    <Property Name="GoPress" Type="bit" />
+    <Property Name="FolderGoPress" Type="nvarchar" MaxLength="250" />
+    <Property Name="PublicationMaster" Type="bit" />
+  </EntityType>
+  <EntityType Name="MediaMasterChild">
+    <Key>
+      <PropertyRef Name="MediaMasterChildID" />
+    </Key>
+    <Property Name="MediaMasterChildID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MediaID" Type="bigint" Nullable="false" />
+    <Property Name="MediaIDChild" Type="bigint" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_MediaMasterChild_Media">
+    <End Role="Media" Type="Self.Media" Multiplicity="1" />
+    <End Role="MediaMasterChild" Type="Self.MediaMasterChild" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Media">
+        <PropertyRef Name="MediaID" />
+      </Principal>
+      <Dependent Role="MediaMasterChild">
+        <PropertyRef Name="MediaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MediaMasterChildChild_Media">
+    <End Role="Media" Type="Self.Media" Multiplicity="1" />
+    <End Role="MediaMasterChild" Type="Self.MediaMasterChild" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Media">
+        <PropertyRef Name="MediaID" />
+      </Principal>
+      <Dependent Role="MediaMasterChild">
+        <PropertyRef Name="MediaIDChild" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="sp_CopyOneFigure" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="SrcMediaID" Type="bigint" Mode="In" />
+  </Function>
+  <Function Name="sp_RefreshMediaToMS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MediaID" Type="bigint" Mode="In" />
+    <Parameter Name="ModBy" Type="nvarchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="SourcesDBModelStoreContainer">
+    <EntitySet Name="Media" EntityType="Self.Media" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MediaMasterChild" EntityType="Self.MediaMasterChild" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_MediaMasterChild_Media" Association="Self.FK_MediaMasterChild_Media">
+      <End Role="Media" EntitySet="Media" />
+      <End Role="MediaMasterChild" EntitySet="MediaMasterChild" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MediaMasterChildChild_Media" Association="Self.FK_MediaMasterChildChild_Media">
+      <End Role="Media" EntitySet="Media" />
+      <End Role="MediaMasterChild" EntitySet="MediaMasterChild" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

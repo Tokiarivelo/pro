@@ -1,0 +1,15 @@
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\bin\Debug\ocrEssai.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\bin\Debug\ocrEssai.exe
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\bin\Debug\ocrEssai.pdb
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\bin\Debug\asprise-ocr-api.dll
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\bin\Debug\asprise-ocr-dll-bundle-32.dll
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\bin\Debug\asprise-ocr-dll-bundle-64.dll
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\bin\Debug\asprise-ocr-api.pdb
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\bin\Debug\asprise-ocr-api.xml
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\obj\Debug\ocrEssai.csprojResolveAssemblyReference.cache
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\obj\Debug\ocrEssai.OcrSampleForm.resources
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\obj\Debug\ocrEssai.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\obj\Debug\ocrEssai.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\obj\Debug\ocrEssai.exe
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\obj\Debug\ocrEssai.pdb
+c:\users\toky\documents\visual studio 2015\Projects\ocrEssai\ocrEssai\obj\Debug\ocrEssai.Form1.resources

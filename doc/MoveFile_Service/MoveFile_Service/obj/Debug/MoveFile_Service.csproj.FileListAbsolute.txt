@@ -1,0 +1,8 @@
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\bin\Debug\MoveFile_Service.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\bin\Debug\MoveFile_Service.exe
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\bin\Debug\MoveFile_Service.pdb
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Debug\MoveFile_Service.ProjectInstaller.resources
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Debug\MoveFile_Service.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Debug\MoveFile_Service.exe
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Debug\MoveFile_Service.pdb
+C:\Users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Debug\MoveFile_Service.csprojResolveAssemblyReference.cache

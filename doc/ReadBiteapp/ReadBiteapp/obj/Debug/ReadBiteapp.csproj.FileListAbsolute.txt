@@ -1,0 +1,14 @@
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\bin\Debug\ReadBiteapp.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\bin\Debug\ReadBiteapp.exe
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\bin\Debug\ReadBiteapp.pdb
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\ReadBiteapp.csprojResolveAssemblyReference.cache
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\MainWindow.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\App.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\ReadBiteapp_MarkupCompile.cache
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\ReadBiteapp_MarkupCompile.lref
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\MainWindow.baml
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\ReadBiteapp.g.resources
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\ReadBiteapp.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\ReadBiteapp.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\ReadBiteapp.exe
+c:\users\toky\documents\visual studio 2015\Projects\ReadBiteapp\ReadBiteapp\obj\Debug\ReadBiteapp.pdb

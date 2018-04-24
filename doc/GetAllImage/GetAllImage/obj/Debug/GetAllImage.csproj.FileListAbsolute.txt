@@ -1,0 +1,16 @@
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\bin\Debug\GetAllImage.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\bin\Debug\GetAllImage.exe
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\bin\Debug\GetAllImage.pdb
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\bin\Debug\itextsharp.dll
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\bin\Debug\itextsharp.xml
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\GetAllImage.csprojResolveAssemblyReference.cache
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\MainWindow.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\App.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\GetAllImage_MarkupCompile.cache
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\GetAllImage_MarkupCompile.lref
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\MainWindow.baml
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\GetAllImage.g.resources
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\GetAllImage.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\GetAllImage.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\GetAllImage.exe
+c:\users\toky\documents\visual studio 2015\Projects\GetAllImage\GetAllImage\obj\Debug\GetAllImage.pdb

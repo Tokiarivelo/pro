@@ -1,0 +1,15 @@
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\bin\Debug\CropPdfApp.exe.config
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\bin\Debug\CropPdfApp.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\bin\Debug\CropPdfApp.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\bin\Debug\itextsharp.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\bin\Debug\itextsharp.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\MainWindow.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\App.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\CropPdfApp_MarkupCompile.cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\CropPdfApp_MarkupCompile.lref
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\MainWindow.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\CropPdfApp.g.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\CropPdfApp.Properties.Resources.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\CropPdfApp.csproj.GenerateResource.Cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\CropPdfApp.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\AspMVC\CropPdfApp\CropPdfApp\obj\Debug\CropPdfApp.pdb

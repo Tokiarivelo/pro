@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="aocr.xsl"?>
+<asprise-ocr input="C:\Users\toky\Documents\GestionConge.pdf" time-start="2018-02-01 09:57:20" version-format="15" runtime="Asprise OCR 15.3 - Evaluation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://asprise.com/ocr/files/schema/15/aocr.xsd">
+  <page no="0" width="2480" height="3509" words="18" confidence="68" time-taken="1.434">
+    <block id="10" type="text" subtype="word" x="150" y="162" width="277" height="114" words="1" confidence="59" font-name="DejaVu_Sans_Ultra-Light" font-size="76" font-bold="0" font-italic="0" font-serif="0" baseline="221" xheight="39" ascent="14" descent="-21">‘Mlodo</block>
+    <block id="11" type="text" subtype="word" x="292" y="223" width="191" height="52" words="1" confidence="83" font-name="DejaVu_Sans_Ultra-Light" font-size="61" font-bold="0" font-italic="0" font-serif="0" baseline="274" xheight="38" ascent="13" descent="-8">onl’ror</block>
+    <block id="12" type="text" subtype="word" x="519" y="376" width="164" height="48" words="1" confidence="70" font-name="DejaVu_Sans_Ultra-Light" font-size="66" font-bold="0" font-italic="0" font-serif="0" baseline="423" xheight="32" ascent="16" descent="-16">EEEEEEE</block>
+    <block id="13" type="text" subtype="word" x="708" y="373" width="330" height="51" words="1" confidence="62" font-name="DejaVu_Sans_Ultra-Light" font-size="66" font-bold="0" font-italic="0" font-serif="0" baseline="423" xheight="32" ascent="16" descent="-16">WETESETEEE</block>
+    <block id="14" type="text" subtype="word" x="1064" y="373" width="233" height="51" words="1" confidence="57" font-name="DejaVu_Sans_Ultra-Light" font-size="66" font-bold="0" font-italic="0" font-serif="0" baseline="424" xheight="32" ascent="16" descent="-16">WSEEEEE</block>
+    <block id="15" type="text" subtype="word" x="1331" y="385" width="9" height="39" words="1" confidence="74" font-name="Georgia" font-size="66" font-bold="0" font-italic="0" font-serif="1" baseline="424" xheight="32" ascent="16" descent="-16">3</block>
+    <block id="16" type="text" subtype="word" x="1370" y="376" width="117" height="48" words="1" confidence="58" font-name="DejaVu_Sans_Ultra-Light" font-size="66" font-bold="0" font-italic="0" font-serif="0" baseline="424" xheight="32" ascent="16" descent="-16">EWEE</block>
+    <block id="17" type="text" subtype="word" x="1518" y="398" width="15" height="10" words="1" confidence="79" font-name="DejaVu_Sans_Ultra-Light" font-size="66" font-bold="0" font-italic="0" font-serif="0" baseline="424" xheight="32" ascent="16" descent="-16">=-</block>
+    <block id="18" type="text" subtype="word" x="1559" y="376" width="188" height="48" words="1" confidence="66" font-name="DejaVu_Sans_Ultra-Light" font-size="66" font-bold="0" font-italic="0" font-serif="0" baseline="423" xheight="32" ascent="16" descent="-16">ESEEEEE</block>
+    <block id="19" type="text" subtype="word" x="1773" y="376" width="188" height="48" words="1" confidence="64" font-name="DejaVu_Sans_Ultra-Light" font-size="66" font-bold="0" font-italic="0" font-serif="0" baseline="424" xheight="32" ascent="16" descent="-16">ENEESES</block>
+ <table id="2" x="366" y="442" width="1743" height="883" rows="3" cols="3" cells="5" words="0" confidence="0">
+  <cell id="1" x="366" y="442" width="581" height="217" row="0" col="0" rowspan="1" colspan="1">
+  </cell>
+  <cell id="3" x="947" y="442" width="581" height="217" row="0" col="1" rowspan="1" colspan="1">
+  </cell>
+  <cell id="4" x="1528" y="442" width="581" height="217" row="0" col="2" rowspan="1" colspan="1">
+  </cell>
+  <cell id="5" x="366" y="659" width="1743" height="533" row="1" col="0" rowspan="1" colspan="3">
+  </cell>
+  <cell id="6" x="366" y="1192" width="1743" height="133" row="2" col="0" rowspan="1" colspan="3">
+  </cell>
+ </table>
+    <block id="1a" type="text" subtype="word" x="150" y="1940" width="138" height="138" words="1" confidence="99" font-name="DejaVu_Sans_Ultra-Light" font-size="171" font-bold="0" font-italic="0" font-serif="0" baseline="2064" xheight="83" ascent="41" descent="-41">M</block>
+    <block id="1b" type="text" subtype="word" x="292" y="1958" width="135" height="62" words="1" confidence="70" font-name="DejaVu_Sans_Ultra-Light" font-size="61" font-bold="0" font-italic="0" font-serif="0" baseline="2011" xheight="39" ascent="14" descent="-6">ado</block>
+    <block id="1c" type="text" subtype="word" x="292" y="2013" width="191" height="52" words="1" confidence="83" font-name="DejaVu_Sans_Ultra-Light" font-size="59" font-bold="0" font-italic="0" font-serif="0" baseline="2064" xheight="38" ascent="13" descent="-6">onl’ror</block>
+    <block id="1d" type="text" subtype="word" x="519" y="2166" width="164" height="47" words="1" confidence="69" font-name="DejaVu_Sans_Ultra-Light" font-size="65" font-bold="0" font-italic="0" font-serif="0" baseline="2213" xheight="31" ascent="15" descent="-15">EEEEEEE</block>
+    <block id="1e" type="text" subtype="word" x="708" y="2163" width="330" height="50" words="1" confidence="58" font-name="DejaVu_Sans_Ultra-Light" font-size="65" font-bold="0" font-italic="0" font-serif="0" baseline="2213" xheight="31" ascent="15" descent="-15">WEUEESETEEE</block>
+    <block id="1f" type="text" subtype="word" x="1064" y="2163" width="233" height="50" words="1" confidence="52" font-name="DejaVu_Sans_Ultra-Light" font-size="65" font-bold="0" font-italic="0" font-serif="0" baseline="2213" xheight="31" ascent="15" descent="-15">EESEEEEE</block>
+    <block id="20" type="text" subtype="word" x="1331" y="2175" width="9" height="38" words="1" confidence="74" font-name="Georgia" font-size="65" font-bold="0" font-italic="0" font-serif="1" baseline="2213" xheight="31" ascent="15" descent="-15">3</block>
+    <block id="21" type="text" subtype="word" x="1370" y="2165" width="117" height="48" words="1" confidence="58" font-name="DejaVu_Sans_Ultra-Light" font-size="65" font-bold="0" font-italic="0" font-serif="0" baseline="2213" xheight="31" ascent="15" descent="-15">EWEE</block>
+ <table id="8" x="366" y="2231" width="1743" height="884" rows="3" cols="3" cells="5" words="0" confidence="0">
+  <cell id="7" x="366" y="2231" width="581" height="217" row="0" col="0" rowspan="1" colspan="1">
+  </cell>
+  <cell id="9" x="947" y="2231" width="581" height="217" row="0" col="1" rowspan="1" colspan="1">
+  </cell>
+  <cell id="a" x="1528" y="2231" width="581" height="217" row="0" col="2" rowspan="1" colspan="1">
+  </cell>
+  <cell id="b" x="366" y="2448" width="1743" height="533" row="1" col="0" rowspan="1" colspan="3">
+  </cell>
+  <cell id="c" x="366" y="2981" width="1743" height="134" row="2" col="0" rowspan="1" colspan="3">
+  </cell>
+ </table>
+  </page>
+</asprise-ocr>

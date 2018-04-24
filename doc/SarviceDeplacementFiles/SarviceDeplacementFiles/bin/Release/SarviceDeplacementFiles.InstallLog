@@ -1,0 +1,607 @@
+﻿Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe.
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe.
+Suppression du fichier InstallState, car aucun programme d'installation n'est présent.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Création d'une source EventLog Move FIles dans le journal Application...
+Restauration de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Restauration de l'état précédent du journal des événements pour la source Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Création d'une source EventLog Move FIles dans le journal Application...
+Restauration de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Restauration de l'état précédent du journal des événements pour la source Move FIles.
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Création d'une source EventLog Move FIles dans le journal Application...
+Restauration de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Restauration de l'état précédent du journal des événements pour la source Move FIles.
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Une exception s'est produite lors de la désinstallation du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Accès au registre demandé non autorisé.
+Une exception s'est produite lors de la désinstallation. Cette exception est ignorée et la désinstallation se poursuit. Cependant, l'application ne sera pas totalement désinstallée une fois la désinstallation terminée.
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Avertissement : la source Move FIles n'est pas inscrite sur l'ordinateur local.
+Le service Move FIles est en cours de suppression du système...
+Une exception s'est produite lors de la désinstallation du programme d'installation System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: Le service spécifié n’existe pas en tant que service installé
+Une exception s'est produite lors de la désinstallation. Cette exception est ignorée et la désinstallation se poursuit. Cependant, l'application ne sera pas totalement désinstallée une fois la désinstallation terminée.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Installation du service Move FIles en cours...
+Le service Move FIles a été installé avec succès.
+Création d'une source EventLog Move FIles dans le journal Application...
+Validation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Désinstallation de l'assembly 'C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.InstallLog
+   assemblypath = C:\Users\toky\Documents\Visual Studio 2015\Projects\SarviceDeplacementFiles\SarviceDeplacementFiles\bin\Release\SarviceDeplacementFiles.exe
+Suppression de la source EventLog Move FIles.
+Le service Move FIles est en cours de suppression du système...
+Le service Move FIles a été retiré avec succès du système.
+Tentative d'arrêt du service Move FIles.

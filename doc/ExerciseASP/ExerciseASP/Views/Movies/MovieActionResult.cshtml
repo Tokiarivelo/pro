@@ -1,0 +1,15 @@
+﻿@model ExerciseASP.ViewModel.MoviesViewModel
+
+@{
+    ViewBag.Title = "Movies";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="list-group" style=" margin: 50px">
+    <p class="list-group-item active"> @ViewBag.Title </p>
+    @foreach (var movies in Model.MoviesList)
+    {
+        <p class="list-group-item"> @movies.MovieName </p>
+    }
+</div>
+

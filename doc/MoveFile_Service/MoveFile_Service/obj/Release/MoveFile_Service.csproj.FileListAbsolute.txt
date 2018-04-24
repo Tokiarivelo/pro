@@ -1,0 +1,7 @@
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\bin\Release\MoveFile_Service.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\bin\Release\MoveFile_Service.exe
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\bin\Release\MoveFile_Service.pdb
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Release\MoveFile_Service.ProjectInstaller.resources
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Release\MoveFile_Service.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Release\MoveFile_Service.exe
+c:\users\toky\documents\visual studio 2015\Projects\MoveFile_Service\MoveFile_Service\obj\Release\MoveFile_Service.pdb

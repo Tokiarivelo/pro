@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntégrationPDFGoPress", "IntégrationPDFGoPress\IntégrationPDFGoPress.csproj", "{E068E419-A3A3-4005-8902-0BF8BEC86C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APMDB.Data", "APMDB.Data\APMDB.Data.csproj", "{9C74101A-8CA5-42AF-B6E1-CA7F13F7BA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourcesDB.Data", "SourcesDB.Data\SourcesDB.Data.csproj", "{88DC9525-9CD4-43C7-ADC0-9F56C1F4A109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamFolderDialogBox", "TeamFolderDialogBox\TeamFolderDialogBox.csproj", "{6DF9E0FD-2F91-43FA-BAD7-813494035918}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IntégrationPDFGoPress.Setup", "IntégrationPDFGoPress.Setup\IntégrationPDFGoPress.Setup.vdproj", "{680990B4-F9FB-45D7-A9C3-BF4CDD2FB3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E068E419-A3A3-4005-8902-0BF8BEC86C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E068E419-A3A3-4005-8902-0BF8BEC86C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E068E419-A3A3-4005-8902-0BF8BEC86C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E068E419-A3A3-4005-8902-0BF8BEC86C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C74101A-8CA5-42AF-B6E1-CA7F13F7BA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C74101A-8CA5-42AF-B6E1-CA7F13F7BA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C74101A-8CA5-42AF-B6E1-CA7F13F7BA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C74101A-8CA5-42AF-B6E1-CA7F13F7BA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DC9525-9CD4-43C7-ADC0-9F56C1F4A109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DC9525-9CD4-43C7-ADC0-9F56C1F4A109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DC9525-9CD4-43C7-ADC0-9F56C1F4A109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DC9525-9CD4-43C7-ADC0-9F56C1F4A109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF9E0FD-2F91-43FA-BAD7-813494035918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF9E0FD-2F91-43FA-BAD7-813494035918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF9E0FD-2F91-43FA-BAD7-813494035918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF9E0FD-2F91-43FA-BAD7-813494035918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680990B4-F9FB-45D7-A9C3-BF4CDD2FB3DF}.Debug|Any CPU.ActiveCfg = Debug
+		{680990B4-F9FB-45D7-A9C3-BF4CDD2FB3DF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

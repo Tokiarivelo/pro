@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SourcesDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SourcesDBEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="sp_CopyOneFigure">
+      <Parameter Name="SrcMediaID" Mode="In" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="sp_RefreshMediaToMS">
+      <Parameter Name="MediaID" Mode="In" Type="Int64" />
+      <Parameter Name="ModBy" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="Media" EntityType="SourcesDBModel.Media" />
+    <EntitySet Name="MediaMasterChild" EntityType="SourcesDBModel.MediaMasterChild" />
+    <AssociationSet Name="FK_MediaMasterChild_Media" Association="SourcesDBModel.FK_MediaMasterChild_Media">
+      <End Role="Media" EntitySet="Media" />
+      <End Role="MediaMasterChild" EntitySet="MediaMasterChild" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MediaMasterChildChild_Media" Association="SourcesDBModel.FK_MediaMasterChildChild_Media">
+      <End Role="Media" EntitySet="Media" />
+      <End Role="MediaMasterChild" EntitySet="MediaMasterChild" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Media">
+    <Key>
+      <PropertyRef Name="MediaID" />
+    </Key>
+    <Property Name="MediaID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PRNewswireID" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="JumboPilotID" Type="Int32" />
+    <Property Name="MediaScoreID" Type="Int32" />
+    <Property Name="MediaName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="DigitalRights" Type="Boolean" Nullable="false" />
+    <Property Name="MorningInfo" Type="Boolean" Nullable="false" />
+    <Property Name="AddressLine1" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="AddressLine2" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="PostalCode" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="WebSite" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="FaxNumber" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MapCountryID" Type="Int64" />
+    <Property Name="MapPeriodicityID" Type="Int64" />
+    <Property Name="MapMediaTypeID" Type="Int64" />
+    <Property Name="MapFormatID" Type="Int64" />
+    <Property Name="MapCategoryID" Type="Int64" />
+    <Property Name="MapCalendarTypeID" Type="Int64" />
+    <Property Name="MapDeliveryMethodID" Type="Int64" />
+    <Property Name="MapFocusID" Type="Int64" />
+    <Property Name="PublisherID" Type="Int64" />
+    <Property Name="Remarks" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Active" Type="Boolean" Nullable="false" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ModDate" Type="DateTime" Precision="3" />
+    <Property Name="UpdateMS" Type="Boolean" Nullable="false" />
+    <Property Name="UpdateJP" Type="Boolean" Nullable="false" />
+    <Property Name="UpdateLanguageJP" Type="Boolean" Nullable="false" />
+    <Property Name="UpdateFigureJP" Type="Boolean" Nullable="false" />
+    <Property Name="UpdateFigureMS" Type="Boolean" Nullable="false" />
+    <Property Name="UpdateGroupJP" Type="Boolean" Nullable="false" />
+    <Property Name="ActiveJP" Type="Boolean" Nullable="false" />
+    <Property Name="ActiveMS" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedBy" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="ModBy" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="ParentID" Type="Int64" />
+    <Property Name="RefreshAllFigures" Type="Boolean" Nullable="false" />
+    <Property Name="SeqLength" Type="Int32" />
+    <Property Name="NbOfCuttings" Type="Int16" />
+    <Property Name="Priority" Type="Int16" />
+    <Property Name="StartTime" Type="Time" Precision="0" />
+    <Property Name="EndTime" Type="Time" Precision="0" />
+    <Property Name="Texthandling" Type="Int16" />
+    <Property Name="RealPDF" Type="Int16" />
+    <Property Name="GoPress" Type="Boolean" />
+    <Property Name="FolderGoPress" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="PublicationMaster" Type="Boolean" />
+    <NavigationProperty Name="MediaMasterChild" Relationship="SourcesDBModel.FK_MediaMasterChild_Media" FromRole="Media" ToRole="MediaMasterChild" />
+    <NavigationProperty Name="MediaMasterChild1" Relationship="SourcesDBModel.FK_MediaMasterChildChild_Media" FromRole="Media" ToRole="MediaMasterChild" />
+  </EntityType>
+  <EntityType Name="MediaMasterChild">
+    <Key>
+      <PropertyRef Name="MediaMasterChildID" />
+    </Key>
+    <Property Name="MediaMasterChildID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MediaID" Type="Int64" Nullable="false" />
+    <Property Name="MediaIDChild" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Media" Relationship="SourcesDBModel.FK_MediaMasterChild_Media" FromRole="MediaMasterChild" ToRole="Media" />
+    <NavigationProperty Name="Media1" Relationship="SourcesDBModel.FK_MediaMasterChildChild_Media" FromRole="MediaMasterChild" ToRole="Media" />
+  </EntityType>
+  <Association Name="FK_MediaMasterChild_Media">
+    <End Type="SourcesDBModel.Media" Role="Media" Multiplicity="1" />
+    <End Type="SourcesDBModel.MediaMasterChild" Role="MediaMasterChild" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Media">
+        <PropertyRef Name="MediaID" />
+      </Principal>
+      <Dependent Role="MediaMasterChild">
+        <PropertyRef Name="MediaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MediaMasterChildChild_Media">
+    <End Type="SourcesDBModel.Media" Role="Media" Multiplicity="1" />
+    <End Type="SourcesDBModel.MediaMasterChild" Role="MediaMasterChild" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Media">
+        <PropertyRef Name="MediaID" />
+      </Principal>
+      <Dependent Role="MediaMasterChild">
+        <PropertyRef Name="MediaIDChild" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,140 @@
+﻿<Window x:Class="TeamFolderDialogBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TeamFolderDialogBox"
+        xmlns:util="clr-namespace:TeamFolderDialogBox.Util"
+        xmlns:model="clr-namespace:TeamFolderDialogBox.Model"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:viewModel="clr-namespace:TeamFolderDialogBox.ViewModel"
+        xmlns:command="http://www.galasoft.ch/mvvmlight" x:Name="MainWindowView"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="CanResizeWithGrip"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"  
+        Title="Rechercher un dossier" Height="500" Width="525">
+   
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <command:EventToCommand Command="{Binding AppLoadedCommand}" CommandParameter="{Binding ElementName=MainWindowView}" />
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Window.Resources>
+        <util:MutibindingCommandParamaterConverter x:Key="MutibindingCommandParamaterConverter"/>
+        <viewModel:FolderDialogBoxViewModel x:Key="FolderDialogBoxVM"/>
+        <HierarchicalDataTemplate DataType="{x:Type model:DirectoryItem}" ItemsSource="{Binding Items}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="5"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image x:Name="FolderImage" Grid.Column="0" Width="16" Height="16" Source="Resource/Image/icofolder.png"/>
+                <TextBlock Grid.Column="2" Text="{Binding Path=Name}" ToolTip="{Binding Path=Path}" Cursor="Hand" >
+                <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseLeftButtonUp">
+                    <i:InvokeCommandAction Command="{Binding Source={StaticResource FolderDialogBoxVM}, Path=SelectDirCommand }" >
+                        <i:InvokeCommandAction.CommandParameter>
+                        <MultiBinding Converter="{StaticResource MutibindingCommandParamaterConverter}">
+                           <Binding Path="DataContext.Path" RelativeSource="{RelativeSource AncestorType={x:Type TreeViewItem}, Mode=FindAncestor}" />
+                           <Binding RelativeSource="{RelativeSource AncestorType={x:Type TreeViewItem}, Mode=FindAncestor}"/>
+                        </MultiBinding>
+                            
+                        </i:InvokeCommandAction.CommandParameter>
+                    </i:InvokeCommandAction>
+                    
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+                </TextBlock>
+            </Grid>
+
+        </HierarchicalDataTemplate>
+        <DataTemplate DataType="{x:Type model:FileItem}">
+            <TextBlock Text="{Binding Path=Name}" ToolTip="{Binding Path=Path}"/>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid Background="#FFECECEC" >
+        <Grid Margin="5" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Button Margin="5 3 0 3"
+        Padding="0" Height="25" Width="25"
+        VerticalAlignment="Center"
+                    HorizontalAlignment="Left"
+        Background="#2490BE"
+        BorderThickness="0"
+        Command="{Binding CancelCommand}"
+        Cursor="Hand"
+        ToolTip="Retour">
+                
+                
+                <materialDesign:PackIcon
+          Width="20"
+          Height="20"
+          Foreground="white"
+          Kind="ArrowLeftBold" />
+            </Button>
+
+            <Button x:Name="OKButton" Margin="35 3 0 3"
+        Padding="0" Height="25" Width="25"
+        VerticalAlignment="Center"
+        Background="#2490BE"
+                    HorizontalAlignment="Left"
+        BorderThickness="0"
+        Command="{Binding OkCommand}"
+        Cursor="Hand"
+        ToolTip="Retour">
+                <materialDesign:PackIcon
+          Width="20"
+          Height="20"
+          Foreground="white"
+          Kind="ContentSave" />
+                
+                
+            </Button>
+            <TreeView x:Name="MyTreeView" Background="White" Grid.Row="1" ItemsSource="{Binding Items}" BorderThickness="1"  >
+                <i:Interaction.Behaviors>
+                    <util:BindableSelectedItemBehavior SelectedItem="{Binding SelectedTreeViewItem, Mode=TwoWay}" />
+                </i:Interaction.Behaviors>
+                <TreeView.Resources>
+                    <Style TargetType="{x:Type TreeViewItem}">
+                        <Setter Property="IsExpanded" Value="True"/>
+                    </Style>
+                </TreeView.Resources>
+                
+               <TreeView.InputBindings>
+                    <MouseBinding Gesture="LeftDoubleClick" Command="{Binding OkCommand}"/>
+                </TreeView.InputBindings>
+            </TreeView>
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Left" Margin="0 0 0 8">
+                <Border
+      Grid.Row="3"
+      BorderBrush="#E0E0E0"
+      BorderThickness="0,1,0,1">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock
+                    x:Name="Resultat"
+          Margin="3,2,0,0"
+          VerticalAlignment="Center"
+          Text="{Binding Libelle, Mode=OneWay}" />
+            </StackPanel>
+        </Border>
+                
+                <!--<Button x:Name="OKButton" Content="OK" Width="80" Cursor="Hand" Margin="5" Command="{Binding OkCommand }" >
+                    <Button.Resources>
+                        <Style TargetType="Button">
+                            <Style.Triggers>
+                                <Trigger Property="IsFocused" Value="True">
+                                    <Setter Property="BorderBrush" Value="Blue"></Setter>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Resources>
+                </Button>-->
+               
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

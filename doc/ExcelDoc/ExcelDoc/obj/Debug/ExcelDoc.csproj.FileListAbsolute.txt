@@ -1,0 +1,15 @@
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\bin\Debug\ExcelDoc.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\bin\Debug\ExcelDoc.exe
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\bin\Debug\ExcelDoc.pdb
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\bin\Debug\EPPlus.dll
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\bin\Debug\EPPlus.xml
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\MainWindow.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\App.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\ExcelDoc_MarkupCompile.cache
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\ExcelDoc_MarkupCompile.lref
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\MainWindow.baml
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\ExcelDoc.g.resources
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\ExcelDoc.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\ExcelDoc.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\ExcelDoc.exe
+c:\users\toky\documents\visual studio 2015\Projects\ExcelDoc\ExcelDoc\obj\Debug\ExcelDoc.pdb

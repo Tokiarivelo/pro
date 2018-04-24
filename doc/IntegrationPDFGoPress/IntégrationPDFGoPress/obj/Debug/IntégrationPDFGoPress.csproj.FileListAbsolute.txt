@@ -1,0 +1,665 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\APMDB.Data.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntegrationPdfGoPressDB.Data.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\APMDB.Data.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntegrationPdfGoPressDB.Data.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\MappingView.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\ServiceView.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\App.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\MappingView.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\ServiceView.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.g.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.config
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe.config
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\APMDB.Data.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntegrationPdfGoPressDB.Data.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignColors.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\APMDB.Data.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntegrationPdfGoPressDB.Data.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.xml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csprojResolveAssemblyReference.cache
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\MainWindow.g.cs
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\MappingView.g.cs
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.g.cs
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\ServiceView.g.cs
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.g.cs
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\App.g.cs
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.cache
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.lref
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\App.baml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\MainWindow.baml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\MappingView.baml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.baml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\ServiceView.baml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.baml
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.g.resources
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.Properties.Resources.resources
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csproj.GenerateResource.Cache
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.exe
+C:\Users\toky\Desktop\IntégrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.config
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe.config
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\APMDB.Data.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\TeamFolderDialogBox.exe
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\APMDB.Data.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\TeamFolderDialogBox.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\MappingView.baml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\ServiceView.baml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\MappingView.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\ServiceView.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.cache
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.lref
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\App.baml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.baml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.baml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.g.resources
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.Properties.Resources.resources
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.exe
+C:\Users\admin\Desktop\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\NLog.config
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe.config
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\APMDB.Data.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\Diacritics.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\NLog.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\TeamFolderDialogBox.exe
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\APMDB.Data.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\TeamFolderDialogBox.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\Diacritics.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\Diacritics.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\NLog.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.xml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\View\MappingView.baml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\View\ServiceView.baml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\View\MappingView.g.cs
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.g.cs
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\View\ServiceView.g.cs
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.g.cs
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.cache
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.lref
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\App.baml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.baml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.baml
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.g.resources
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.Properties.Resources.resources
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.exe
+C:\Users\admin\Desktop\Nouveau dossier\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe.config
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.config
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\IntégrationPDFGoPress.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\APMDB.Data.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignColors.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\TeamFolderDialogBox.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\APMDB.Data.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\SourcesDB.Data.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\TeamFolderDialogBox.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.4.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.4.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DataGrid.Filters.4.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.FlexGrid.4.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Diacritics.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\NLog.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\C1.WPF.DateTimeEditors.4.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ar\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\cs\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\da\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\de\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\el\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\es\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fi\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\fr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\he\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\it\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ja\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\nl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\no\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pl\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\pt\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\ru\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sk\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\sv\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\tr\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hans\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\bin\Debug\zh-Hant\C1.WPF.DataGrid.Filters.4.resources.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csprojResolveAssemblyReference.cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\MainWindow.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\MappingView.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\ServiceView.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\MainWindow.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\MappingView.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\ServiceView.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\App.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress_MarkupCompile.lref
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\App.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\PublicationListView.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\View\SourceContactView.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.g.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.Properties.Resources.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\IntégrationPDFGoPress\obj\Debug\IntégrationPDFGoPress.csproj.GenerateResource.Cache

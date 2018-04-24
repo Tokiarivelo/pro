@@ -1,0 +1,1557 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>GroupDocs.Comparison</name>
+  </assembly>
+  <members>
+    <member name="T:GroupDocs.Comparison.Comparer">
+      <summary>
+            Comparison facade
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Comparer.Compare(System.String,System.String,GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings)">
+      <summary>
+            Compares the specified source.
+            </summary>
+      <param name="source">The source.</param>
+      <param name="target">The target.</param>
+      <param name="settings">The options.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Comparer.Compare(System.String,System.String,System.String,System.String,GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings)">
+      <summary>
+            Compares the specified source.
+            </summary>
+      <param name="source">The source.</param>
+      <param name="sourcePassword">The source password.</param>
+      <param name="target">The target.</param>
+      <param name="targetPassword">The target password.</param>
+      <param name="settings">The options.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Comparer.Compare(System.IO.Stream,System.IO.Stream,GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings)">
+      <summary>
+            Compares the specified source.
+            </summary>
+      <param name="source">The source.</param>
+      <param name="target">The target.</param>
+      <param name="settings">The options.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Comparer.Compare(System.IO.Stream,System.String,System.IO.Stream,System.String,GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings)">
+      <summary>
+            Compares the specified source.
+            </summary>
+      <param name="source">The source.</param>
+      <param name="sourcePassword">The source password.</param>
+      <param name="target">The target.</param>
+      <param name="targetPassword">The target password.</param>
+      <param name="settings">The options.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="T:GroupDocs.Comparison.MultiComparer">
+      <summary>
+            Multi Comparison facade
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.MultiComparer.Compare(System.String,System.Collections.Generic.List{System.String},GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings)">
+      <summary>
+            Compares the specified source.
+            </summary>
+      <param name="source">The source.</param>
+      <param name="targetFiles">The source.</param>
+      <param name="settings">The options.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.MultiComparer.Compare(System.String,System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings)">
+      <summary>
+            Compares the specified source.
+            </summary>
+      <param name="source">The source.</param>
+      <param name="sourcePassword">The source password.</param>
+      <param name="targetfiles">The target files.</param>
+      <param name="filesPasswords">The files passwords.</param>
+      <param name="settings">The options.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.MultiComparer.Compare(System.IO.Stream,System.Collections.Generic.List{System.IO.Stream},GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings)">
+      <summary>
+            Compares the specified source.
+            </summary>
+      <param name="source">The source.</param>
+      <param name="targetFiles">The target files.</param>
+      <param name="options">The options.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.MultiComparer.Compare(System.IO.Stream,System.String,System.Collections.Generic.List{System.IO.Stream},System.Collections.Generic.List{System.String},GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings)">
+      <summary>
+            Compares the specified source.
+            </summary>
+      <param name="source">The source.</param>
+      <param name="sourcePassword">The source password.</param>
+      <param name="targetfiles">The target files.</param>
+      <param name="filesPasswords">The files passwords.</param>
+      <param name="settings">The options.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="T:GroupDocs.Comparison.NamespaceDoc">
+      <summary>
+            The GroupDocs.Comparison namespace provides classes for comparing documents in your .NET applications.
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.ICompareResult">
+      <summary>
+            Base Comparison result object
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ICompareResult.SaveDocument(System.String)">
+      <summary>
+            Saves the document.
+            </summary>
+      <param name="path">The path.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ICompareResult.SaveImages(System.String)">
+      <summary>
+            Saves the images.
+            </summary>
+      <param name="folderPath">The folder path.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ICompareResult.GetStream">
+      <summary>
+            Gets the stream.
+            </summary>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ICompareResult.GetImages">
+      <summary>
+            Gets the images.
+            </summary>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ICompareResult.GetChanges">
+      <summary>
+            Gets all changes
+            </summary>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ICompareResult.GetChangesCategories(GroupDocs.Comparison.Common.Changes.ComparisonCategoriesType)">
+      <summary>
+            Gets the changes categories.
+            </summary>
+      <param name="enumType">Type of the enum.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ICompareResult.UpdateChanges(GroupDocs.Comparison.Common.Changes.ChangeInfo[])">
+      <summary>
+            Applies Accepted and Rejected changes
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ICompareResult.CountOfErrors">
+      <summary>
+            Gets or sets the count of errors.
+            </summary>
+      <value>
+            The count of errors.
+            </value>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.NamespaceDoc">
+      <summary>
+            The GroupDocs.Comparison.Common namespace provides classes for work ICompareResult object in your .NET applications.
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.NamespaceGroupDoc">
+      <summary>
+            The GroupDocs.Comparison.Common namespace provides classes for work with settings, license, logger, localization, changes and ICompareResult object in your .NET applications.
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.TypeChanged">
+      <summary>
+            Enum TypeChanged
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.NotModified">
+      <summary>
+            The not modified
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.Modified">
+      <summary>
+            The modified
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.Inserted">
+      <summary>
+            The inserted
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.Deleted">
+      <summary>
+            The deleted
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.Added">
+      <summary>
+            The added
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.None">
+      <summary>
+            The none
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.StyleChanged">
+      <summary>
+            Style changed
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.Resized">
+      <summary>
+            Resized
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.Moved">
+      <summary>
+            Moved
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.MovedAndResized">
+      <summary>
+            The moved and resized
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.TypeChanged.ShiftedAndResized">
+      <summary>
+            The shifted and resized
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Logger.ConsoleLogger">
+      <summary>
+            Class ConsoleLogger
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.#ctor(GroupDocs.Comparison.Common.Logger.LoggingLevel,System.String)">
+      <summary>
+            Initializes a new instance of the <see cref="T:GroupDocs.Comparison.Common.Logger.ConsoleLogger" /> class.
+            </summary>
+      <param name="loggingLevel">The logger level.</param>
+      <param name="loggerFilePath">The logger file path.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Dispose">
+      <summary>
+            Releases unmanaged and - optionally - managed resources.
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Debug(System.Object)">
+      <summary>
+            Debugs the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Debug(System.Object,System.Exception)">
+      <summary>
+            Debugs the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.DebugFormat(System.String,System.Object[])">
+      <summary>
+            Debugs the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.DebugFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Debugs the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Info(System.Object)">
+      <summary>
+            Informations the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Info(System.Object,System.Exception)">
+      <summary>
+            Informations the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.InfoFormat(System.String,System.Object[])">
+      <summary>
+            Informations the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.InfoFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Informations the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Warn(System.Object)">
+      <summary>
+            Warns the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Warn(System.Object,System.Exception)">
+      <summary>
+            Warns the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.WarnFormat(System.String,System.Object[])">
+      <summary>
+            Warns the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.WarnFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Warns the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Error(System.Object)">
+      <summary>
+            Errors the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Error(System.Object,System.Exception)">
+      <summary>
+            Errors the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.ErrorFormat(System.String,System.Object[])">
+      <summary>
+            Errors the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.ErrorFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Errors the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Fatal(System.Object)">
+      <summary>
+            Fatals the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.Fatal(System.Object,System.Exception)">
+      <summary>
+            Fatals the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.FatalFormat(System.String,System.Object[])">
+      <summary>
+            Fatals the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ConsoleLogger.FatalFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Fatals the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ConsoleLogger.IsDebugEnabled">
+      <summary>
+            Gets or sets a value indicating whether this instance is debug enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is debug enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ConsoleLogger.IsInfoEnabled">
+      <summary>
+            Gets or sets a value indicating whether this instance is information enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is information enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ConsoleLogger.IsWarnEnabled">
+      <summary>
+            Gets or sets a value indicating whether this instance is warn enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is warn enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ConsoleLogger.IsErrorEnabled">
+      <summary>
+            Gets or sets a value indicating whether this instance is error enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is error enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ConsoleLogger.IsFatalEnabled">
+      <summary>
+            Gets or sets a value indicating whether this instance is fatal enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is fatal enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Logger.ILogger">
+      <summary>
+            Interface ILogger
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Debug(System.Object)">
+      <summary>
+            Debugs the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Debug(System.Object,System.Exception)">
+      <summary>
+            Debugs the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.DebugFormat(System.String,System.Object[])">
+      <summary>
+            Debugs the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.DebugFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Debugs the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Info(System.Object)">
+      <summary>
+            Informations the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Info(System.Object,System.Exception)">
+      <summary>
+            Informations the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.InfoFormat(System.String,System.Object[])">
+      <summary>
+            Informations the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.InfoFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Informations the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Warn(System.Object)">
+      <summary>
+            Warns the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Warn(System.Object,System.Exception)">
+      <summary>
+            Warns the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.WarnFormat(System.String,System.Object[])">
+      <summary>
+            Warns the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.WarnFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Warns the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Error(System.Object)">
+      <summary>
+            Errors the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Error(System.Object,System.Exception)">
+      <summary>
+            Errors the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.ErrorFormat(System.String,System.Object[])">
+      <summary>
+            Errors the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.ErrorFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Errors the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Fatal(System.Object)">
+      <summary>
+            Fatals the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.Fatal(System.Object,System.Exception)">
+      <summary>
+            Fatals the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.FatalFormat(System.String,System.Object[])">
+      <summary>
+            Fatals the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ILogger.FatalFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Fatals the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ILogger.IsDebugEnabled">
+      <summary>
+            Gets a value indicating whether this instance is debug enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is debug enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ILogger.IsInfoEnabled">
+      <summary>
+            Gets a value indicating whether this instance is information enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is information enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ILogger.IsWarnEnabled">
+      <summary>
+            Gets a value indicating whether this instance is warn enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is warn enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ILogger.IsErrorEnabled">
+      <summary>
+            Gets a value indicating whether this instance is error enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is error enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Logger.ILogger.IsFatalEnabled">
+      <summary>
+            Gets a value indicating whether this instance is fatal enabled.
+            </summary>
+      <value>
+        <c>true</c> if this instance is fatal enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Logger.ComparisonLogger">
+      <summary>
+            Class ComparisonLogger
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.SetLogger(GroupDocs.Comparison.Common.Logger.ILogger)">
+      <summary>
+            Sets the logger.
+            </summary>
+      <param name="inputLogger">The input logger.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Debug(System.Object)">
+      <summary>
+            Debugs the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Debug(System.Object,System.Exception)">
+      <summary>
+            Debugs the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.DebugFormat(System.String,System.Object[])">
+      <summary>
+            Debugs the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.DebugFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Debugs the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Info(System.Object)">
+      <summary>
+            Informations the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Info(System.Object,System.Exception)">
+      <summary>
+            Informations the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.InfoFormat(System.String,System.Object[])">
+      <summary>
+            Informations the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.InfoFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Informations the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Warn(System.Object)">
+      <summary>
+            Warns the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Warn(System.Object,System.Exception)">
+      <summary>
+            Warns the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.WarnFormat(System.String,System.Object[])">
+      <summary>
+            Warns the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.WarnFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Warns the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Error(System.Object)">
+      <summary>
+            Errors the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Error(System.Object,System.Exception)">
+      <summary>
+            Errors the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.ErrorFormat(System.String,System.Object[])">
+      <summary>
+            Errors the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.ErrorFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Errors the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Fatal(System.Object)">
+      <summary>
+            Fatals the specified message.
+            </summary>
+      <param name="message">The message.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.Fatal(System.Object,System.Exception)">
+      <summary>
+            Fatals the specified message.
+            </summary>
+      <param name="message">The message.</param>
+      <param name="exception">The exception.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.FatalFormat(System.String,System.Object[])">
+      <summary>
+            Fatals the format.
+            </summary>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Logger.ComparisonLogger.FatalFormat(System.IFormatProvider,System.String,System.Object[])">
+      <summary>
+            Fatals the format.
+            </summary>
+      <param name="provider">The provider.</param>
+      <param name="format">The format.</param>
+      <param name="args">The arguments.</param>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Logger.LoggingLevel">
+      <summary>
+            Enum LoggingLevel
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Logger.LoggingLevel.Debug">
+      <summary>
+            The debug
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Logger.LoggingLevel.Info">
+      <summary>
+            The information
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Logger.LoggingLevel.Warn">
+      <summary>
+            The warn
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Logger.LoggingLevel.Error">
+      <summary>
+            The error
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Logger.LoggingLevel.Fatal">
+      <summary>
+            The fatal
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Logger.NamespaceDoc">
+      <summary>
+            The GroupDocs.Comparison.Common namespace provides classes for work with integrated or your own logger in your .NET applications.
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Localization.ComparisonLocalizationManager.#ctor">
+      <summary>
+            Initializes a new instance of the <see cref="T:GroupDocs.Comparison.Common.Localization.ComparisonLocalizationManager" /> class.
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Localization.NamespaceDoc">
+      <summary>
+            The GroupDocs.Comparison.Common namespace provides classes for setting localization for comparison in your .NET applications.
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Localization.SupportedLocales">
+      <summary>
+            Class that provides methods for checking supported locales of GroupDocs.Comparison
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Localization.SupportedLocales.locales">
+      <summary>
+            The locales
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Localization.SupportedLocales.IsLocaleSupported(System.String)">
+      <summary>
+            Determines whether [is locale supported] [the specified culture].
+            </summary>
+      <param name="culture">The culture.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Localization.SupportedLocales.IsLocaleSupported(System.Globalization.CultureInfo)">
+      <summary>
+            Determines whether [is locale supported] [the specified culture].
+            </summary>
+      <param name="culture">The culture.</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.License.License">
+      <summary>
+            Class License.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.License.License.Handler">
+      <summary>
+            The handler
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.License.License.SetLicense(System.IO.Stream)">
+      <summary>
+            Sets the license.
+            </summary>
+      <param name="licenseStream">The license stream.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.License.License.SetMeteredLicense">
+      <summary>
+            Sets the metered license.
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.License.License.SetLicense(System.String)">
+      <summary>
+            Sets the license.
+            </summary>
+      <param name="licensePath">The license path.</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.License.License.GetFileNameInFolderOfAssembly(System.String,System.Reflection.Assembly)">
+      <summary>
+            Gets the file name in folder of assembly.
+            </summary>
+      <param name="fileName">Name of the file.</param>
+      <param name="assembly">The assembly.</param>
+      <returns>System.String.</returns>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.License.License.GetAssemblyPath(System.Reflection.Assembly)">
+      <summary>
+            Returns assembly path correctly even if the assembly is shadow-copied.
+            Uses CodeBase instead of Location for that.
+            </summary>
+      <param name="assembly">The assembly.</param>
+      <returns>System.String.</returns>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.License.License.LicenseChecker">
+      <summary>
+            Gets a value indicating whether this instance is valid license.
+            </summary>
+      <value>
+        <c>true</c> if this instance is valid license; otherwise, <c>false</c>.</value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.License.License.IsValidLicense">
+      <summary>
+            Gets a value indicating whether this instance is valid license.
+            </summary>
+      <value>
+        <c>true</c> if this instance is valid license; otherwise, <c>false</c>.</value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.License.License.IsValidMeteredLicense">
+      <summary>
+            Gets a value indicating whether this instance is valid metered license.
+            </summary>
+      <value>
+        <c>true</c> if this instance is valid metered license; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.License.Metered">
+      <summary>
+            Metered license class
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.License.Metered.#ctor">
+      <summary>
+            Initializes a new instance of the <see cref="T:GroupDocs.Comparison.Common.License.Metered" /> class.
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.License.Metered.SetMeteredKey(System.String,System.String)">
+      <summary>
+            Sets metered public and private key
+            </summary>
+      <param name="publicKey">public key</param>
+      <param name="privateKey">private key</param>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.License.Metered.GetConsumptionQuantity">
+      <summary>
+            Gets consumption quantity
+            </summary>
+      <returns>consumption quantity</returns>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.License.NamespaceDoc">
+      <summary>
+            The GroupDocs.Comparison.Common namespace provides classes for setting license for comparison in your .NET applications.
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata">
+      <summary>
+            Class that let us create Metadata objects that are used to create result document with custom metadata
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata.#ctor">
+      <summary>
+            Initializes a new instance of the <see cref="T:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata" /> class.
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata.Author">
+      <summary>
+            Gets or sets the author.
+            </summary>
+      <value>
+            The author.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata.LastSaveBy">
+      <summary>
+            Gets or sets the last save by.
+            </summary>
+      <value>
+            The last save by.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata.Company">
+      <summary>
+            Gets or sets the company.
+            </summary>
+      <value>
+            The company.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata.CreatedTime">
+      <summary>
+            Gets or sets the created time.
+            </summary>
+      <value>
+            The created time.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata.LastSaveTime">
+      <summary>
+            Gets or sets the last save time.
+            </summary>
+      <value>
+            The last save time.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonMetadata.LastPrintTime">
+      <summary>
+            Gets or sets the last print time.
+            </summary>
+      <value>
+            The last print time.
+            </value>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.ComparisonSettings.DetailLevel">
+      <summary>
+            Level of comparison detailisation
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.DetailLevel.Low">
+      <summary>
+            The low
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.DetailLevel.Middle">
+      <summary>
+            The middle
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.DetailLevel.Hight">
+      <summary>
+            The hight
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.ComparisonSettings.NamespaceDoc">
+      <summary>
+            The GroupDocs.Comparison.Common namespace provides classes for work with settings for comparison of documents in your .NET applications.
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.ComparisonSettings.PasswordSaveOption">
+      <summary>
+            Password save option
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.PasswordSaveOption.None">
+      <summary>
+            Default password
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.PasswordSaveOption.Source">
+      <summary>
+            Source password
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.PasswordSaveOption.Target">
+      <summary>
+            Source password
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.PasswordSaveOption.User">
+      <summary>
+            The user password
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.ComparisonSettings.TypeMetadata">
+      <summary>
+            Enum TypeMetadata
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.TypeMetadata.Default">
+      <summary>
+            Default metadata
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.TypeMetadata.Source">
+      <summary>
+            Source matadata
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.TypeMetadata.Target">
+      <summary>
+            Source matadata
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.ComparisonSettings.TypeMetadata.User">
+      <summary>
+            The user
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings">
+      <summary>
+            Comparison settings
+            </summary>
+      <seealso cref="T:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings" />
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.#ctor">
+      <summary>
+            Initializes a new instance of the <see cref="T:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings" /> class.
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.ShowDeletedContent">
+      <summary>
+            Gets or sets an ability to show deleted content.
+            </summary>
+      <value>
+        <c>true</c> if [show deleted content]; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.GenerateSummaryPage">
+      <summary>
+            Enables or disables generation of summary page.
+            </summary>
+      <value>
+        <c>true</c> if [generate summary page]; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.StyleChangeDetection">
+      <summary>
+            Gets or sets an ability to detect style changes.
+            </summary>
+      <value>
+        <c>true</c> if [style change detection]; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.MarkDeletedInsertedContentDeep">
+      <summary>
+            Gets or sets a value indicating whether [show deleted content deep].
+            </summary>
+      <value>
+        <c>true</c> if [show deleted content deep]; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.CalculateComponentCoordinates">
+      <summary>
+            Gets or sets an ability to calculate component coordiantes.
+            </summary>
+      <value>
+        <c>true</c> if [calculate component coordiantes]; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.DetailLevel">
+      <summary>
+            Gets or sets the detail level.
+            </summary>
+      <value>
+            The detail level.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.UseFramesForDelInsElements">
+      <summary>
+            Gets or sets a value indicating whether [use frames for delete ins elements].
+            </summary>
+      <value>
+        <c>true</c> if [use frames for delete ins elements]; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.InsertedItemsStyle">
+      <summary>
+            Gets or sets style for the inserted items.
+            </summary>
+      <value>
+            The inserted items style.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.DeletedItemsStyle">
+      <summary>
+            Gets or sets style for the deleted items.
+            </summary>
+      <value>
+            The deleted items style.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.StyleChangedItemsStyle">
+      <summary>
+            Gets or sets the style changed items style.
+            </summary>
+      <value>
+            The style changed items style.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.CloneMetadata">
+      <summary>
+            Gets or sets a value indicating whether [clone metadata] (true - clone from source, false - clone from target).
+            </summary>
+      <value>
+        <c>true</c> if [clone source metadata]; otherwise clone target metadata, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.MetaData">
+      <summary>
+            Gets or sets the meta data1.
+            </summary>
+      <value>
+            The meta data1.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.PasswordSaveOption">
+      <summary>
+            Gets or sets the password save option (document with password can be saved only in .doc format).
+            </summary>
+      <value>
+            The password save option.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.Password">
+      <summary>
+            Gets or sets the password for result document.
+            </summary>
+      <value>
+            The password for result document.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.ComparisonSettings.WordsSeparatorChars">
+      <summary>
+            Gets or sets the words separator chars.
+            </summary>
+      <value>
+            The words separator chars.
+            </value>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings">
+      <summary>
+            Class StyleSettings
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings.#ctor">
+      <summary>
+            Initializes a new instance of the <see cref="T:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings" /> class.
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings.Color">
+      <summary>
+            Gets or sets the color.
+            </summary>
+      <value>
+            The color.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings.Bold">
+      <summary>
+            Gets or sets a value indicating whether this <see cref="T:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings" /> is bold.
+            </summary>
+      <value>
+        <c>true</c> if bold; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings.Underline">
+      <summary>
+            Gets or sets a value indicating whether this <see cref="T:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings" /> is underline.
+            </summary>
+      <value>
+        <c>true</c> if underline; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings.Italic">
+      <summary>
+            Gets or sets a value indicating whether this <see cref="T:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings" /> is italic.
+            </summary>
+      <value>
+        <c>true</c> if italic; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings.StrikeThrough">
+      <summary>
+            Gets or sets a value indicating whether [strike through].
+            </summary>
+      <value>
+        <c>true</c> if [strike through]; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings.BeginSeparatorString">
+      <summary>
+            Gets or sets the begin separator string.
+            </summary>
+      <value>
+            The begin separator string.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.ComparisonSettings.StyleSettings.EndSeparatorString">
+      <summary>
+            Gets or sets the end separator string.
+            </summary>
+      <value>
+            The end separator string.
+            </value>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Changes.NamespaceDoc">
+      <summary>
+            The GroupDocs.Comparison.Common namespace provides classes for work with changes of result comparison document object in your .NET applications.
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Changes.ComparisonCategoriesType">
+      <summary>
+            ComparisonCategoriesType enum
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonCategoriesType.ByTypeChanged">
+      <summary>
+            The by type changed
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonCategoriesType.ByNodeType">
+      <summary>
+            The by node type
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonCategoriesType.ContainsNumbers">
+      <summary>
+            The contains numbers
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonCategoriesType.OnlyNumbers">
+      <summary>
+            The only numbers
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonCategoriesType.ByShapes">
+      <summary>
+            The shapes
+            Only for imaging
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonCategoriesType.ByZones">
+      <summary>
+            The Zones
+            Only for imaging 
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Changes.ComparisonChangesCategory">
+      <summary>
+            The separation of changes divided into categories
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Changes.ComparisonChangesCategory.#ctor(System.String)">
+      <summary>
+            Initializes a new instance of the <see cref="T:GroupDocs.Comparison.Common.Changes.ComparisonChangesCategory" /> class.
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ComparisonChangesCategory.Category">
+      <summary>
+            Gets or sets the category.
+            </summary>
+      <value>
+            The category.
+            </value>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ComparisonChangesCategory.Changes">
+      <summary>
+            Gets or sets the changes.
+            </summary>
+      <value>
+            The changes.
+            </value>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Changes.ChangeInfo">
+      <summary>
+            Change info object
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ChangeInfo.Id">
+      <summary>
+            Id of change
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ChangeInfo.Type">
+      <summary>
+            Type of change
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ChangeInfo.Action">
+      <summary>
+            Action for current change
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ChangeInfo.Page">
+      <summary>
+            Page where current change is placed
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ChangeInfo.Box">
+      <summary>
+            Area of change
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ChangeInfo.Text">
+      <summary>
+            Text value of change
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ChangeInfo.StyleChanges">
+      <summary>
+            Style changes
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.ChangeInfo.Authors">
+      <summary>
+            Authors
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Changes.ComparisonAction">
+      <summary>
+            Action for change
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonAction.None">
+      <summary>
+            No action
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonAction.Accept">
+      <summary>
+            Accept change
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Common.Changes.ComparisonAction.Reject">
+      <summary>
+            Reject change
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Changes.Page">
+      <summary>
+            Object which represents a page
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Changes.Page.#ctor(System.Int32,System.Single,System.Single)">
+      <summary>
+            Creates a new instance of Page
+            </summary>
+      <param name="id">Page Id</param>
+      <param name="width">Page width</param>
+      <param name="height">Page height</param>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.Page.Id">
+      <summary>
+            Gets or Sets page id
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.Page.Width">
+      <summary>
+            Gets or Sets width of Page
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.Page.Height">
+      <summary>
+            Gets or Sets height of Page
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Changes.Rectangle">
+      <summary>
+            Rectangle for changes
+            </summary>
+    </member>
+    <member name="M:GroupDocs.Comparison.Common.Changes.Rectangle.#ctor(System.Single,System.Single,System.Single,System.Single)">
+      <summary>
+            Creates a new instance of Rectangle
+            </summary>
+      <param name="x">X position of rectangle</param>
+      <param name="y">Y position of Rectangle</param>
+      <param name="width">Width of Rectangle</param>
+      <param name="height">Height of Rectangle</param>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.Rectangle.X">
+      <summary>
+            Gets or Sets X position of rectangle
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.Rectangle.Y">
+      <summary>
+            Gets or Sets Y position of rectangle
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.Rectangle.Width">
+      <summary>
+            Gets or Sets Width of rectangle
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.Rectangle.Height">
+      <summary>
+            Gets or Sets Height of rectangle
+            </summary>
+    </member>
+    <member name="T:GroupDocs.Comparison.Common.Changes.StyleChangeInfo">
+      <summary>
+            Information about style changes
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.StyleChangeInfo.ChangedProperty">
+      <summary>
+            Gets or Sets the name of th property that was changes
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.StyleChangeInfo.OldValue">
+      <summary>
+            Gets or Sets the old value of property
+            </summary>
+    </member>
+    <member name="P:GroupDocs.Comparison.Common.Changes.StyleChangeInfo.NewValue">
+      <summary>
+            Gets or Sets the new value of property
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Check">
+      <summary>
+            Check type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Circle">
+      <summary>
+            Circle type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Comment">
+      <summary>
+            Comment type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Cross">
+      <summary>
+            Cross type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Help">
+      <summary>
+            Help type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Insert">
+      <summary>
+            Insert type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Key">
+      <summary>
+            Key type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.NewParagraph">
+      <summary>
+            NewParagraph type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Note">
+      <summary>
+            Note type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Paragraph">
+      <summary>
+            Paragraph type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationIcon.Star">
+      <summary>
+            Star type.
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationType.Text">
+      <summary>
+            Text annotation
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonAnnotationType.Popup">
+      <summary>
+            Popup annotation
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonHeaderFooterType.Header">
+      <summary>
+            The header
+            </summary>
+    </member>
+    <member name="F:GroupDocs.Comparison.Pdf.Contracts.Enum.ComparisonHeaderFooterType.Footer">
+      <summary>
+            The footer
+            </summary>
+    </member>
+  </members>
+</doc>

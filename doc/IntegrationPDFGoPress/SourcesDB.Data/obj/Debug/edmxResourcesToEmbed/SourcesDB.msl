@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SourcesDBModelStoreContainer" CdmEntityContainer="SourcesDBEntities">
+    <FunctionImportMapping FunctionImportName="sp_CopyOneFigure" FunctionName="SourcesDBModel.Store.sp_CopyOneFigure" />
+    <FunctionImportMapping FunctionImportName="sp_RefreshMediaToMS" FunctionName="SourcesDBModel.Store.sp_RefreshMediaToMS" />
+    <EntitySetMapping Name="Media">
+      <EntityTypeMapping TypeName="SourcesDBModel.Media">
+        <MappingFragment StoreEntitySet="Media">
+          <ScalarProperty Name="PublicationMaster" ColumnName="PublicationMaster" />
+          <ScalarProperty Name="FolderGoPress" ColumnName="FolderGoPress" />
+          <ScalarProperty Name="GoPress" ColumnName="GoPress" />
+          <ScalarProperty Name="RealPDF" ColumnName="RealPDF" />
+          <ScalarProperty Name="Texthandling" ColumnName="Texthandling" />
+          <ScalarProperty Name="EndTime" ColumnName="EndTime" />
+          <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+          <ScalarProperty Name="NbOfCuttings" ColumnName="NbOfCuttings" />
+          <ScalarProperty Name="SeqLength" ColumnName="SeqLength" />
+          <ScalarProperty Name="RefreshAllFigures" ColumnName="RefreshAllFigures" />
+          <ScalarProperty Name="ParentID" ColumnName="ParentID" />
+          <ScalarProperty Name="ModBy" ColumnName="ModBy" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ActiveMS" ColumnName="ActiveMS" />
+          <ScalarProperty Name="ActiveJP" ColumnName="ActiveJP" />
+          <ScalarProperty Name="UpdateGroupJP" ColumnName="UpdateGroupJP" />
+          <ScalarProperty Name="UpdateFigureMS" ColumnName="UpdateFigureMS" />
+          <ScalarProperty Name="UpdateFigureJP" ColumnName="UpdateFigureJP" />
+          <ScalarProperty Name="UpdateLanguageJP" ColumnName="UpdateLanguageJP" />
+          <ScalarProperty Name="UpdateJP" ColumnName="UpdateJP" />
+          <ScalarProperty Name="UpdateMS" ColumnName="UpdateMS" />
+          <ScalarProperty Name="ModDate" ColumnName="ModDate" />
+          <ScalarProperty Name="CreationDate" ColumnName="CreationDate" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="PublisherID" ColumnName="PublisherID" />
+          <ScalarProperty Name="MapFocusID" ColumnName="MapFocusID" />
+          <ScalarProperty Name="MapDeliveryMethodID" ColumnName="MapDeliveryMethodID" />
+          <ScalarProperty Name="MapCalendarTypeID" ColumnName="MapCalendarTypeID" />
+          <ScalarProperty Name="MapCategoryID" ColumnName="MapCategoryID" />
+          <ScalarProperty Name="MapFormatID" ColumnName="MapFormatID" />
+          <ScalarProperty Name="MapMediaTypeID" ColumnName="MapMediaTypeID" />
+          <ScalarProperty Name="MapPeriodicityID" ColumnName="MapPeriodicityID" />
+          <ScalarProperty Name="MapCountryID" ColumnName="MapCountryID" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="FaxNumber" ColumnName="FaxNumber" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="WebSite" ColumnName="WebSite" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="AddressLine2" ColumnName="AddressLine2" />
+          <ScalarProperty Name="AddressLine1" ColumnName="AddressLine1" />
+          <ScalarProperty Name="MorningInfo" ColumnName="MorningInfo" />
+          <ScalarProperty Name="DigitalRights" ColumnName="DigitalRights" />
+          <ScalarProperty Name="MediaName" ColumnName="MediaName" />
+          <ScalarProperty Name="MediaScoreID" ColumnName="MediaScoreID" />
+          <ScalarProperty Name="JumboPilotID" ColumnName="JumboPilotID" />
+          <ScalarProperty Name="PRNewswireID" ColumnName="PRNewswireID" />
+          <ScalarProperty Name="MediaID" ColumnName="MediaID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MediaMasterChild">
+      <EntityTypeMapping TypeName="SourcesDBModel.MediaMasterChild">
+        <MappingFragment StoreEntitySet="MediaMasterChild">
+          <ScalarProperty Name="MediaIDChild" ColumnName="MediaIDChild" />
+          <ScalarProperty Name="MediaID" ColumnName="MediaID" />
+          <ScalarProperty Name="MediaMasterChildID" ColumnName="MediaMasterChildID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

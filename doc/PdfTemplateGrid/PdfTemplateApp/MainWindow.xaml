@@ -1,0 +1,93 @@
+﻿<Window x:Class="PdfTemplateApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PdfTemplateApp"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:command="http://www.galasoft.ch/mvvmlight"
+        xmlns:utils="clr-namespace:PdfTemplateApp.Utils"
+        mc:Ignorable="d"
+        Title="MainWindow"  MinWidth="1100" MinHeight="1000" Width="1100" Height="1000"
+        DataContext="{Binding Source={StaticResource Locator}, Path=MainVmModel}" Background="#d9d9d9"
+        Name="Main"
+        WindowState="Maximized">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <command:EventToCommand Command="{Binding Initializer}" CommandParameter="{Binding ElementName=PdfViewer}"/>
+            <command:EventToCommand Command="{Binding Initializer}" CommandParameter="{Binding ElementName=HeaderViewer}"/>
+            <command:EventToCommand Command="{Binding GetWindow}" CommandParameter="{Binding ElementName=Main}"/>
+            <command:EventToCommand Command="{Binding GetTScrollView}" CommandParameter="{Binding ElementName=ScrollViewerPdf}"/>
+            <command:EventToCommand Command="{Binding GetBorders}" CommandParameter="{Binding ElementName=BorderHead}"/>
+            <command:EventToCommand Command="{Binding GetBorders}" CommandParameter="{Binding ElementName=BorderBody}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <utils:HeightConvertercs x:Key="HalfHeight"/>
+            <utils:PositionX x:Key="XPosition"/>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid Background="#d9d9d9">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="Black" BorderThickness="0 0 0 1" Background="#f3f3f3">
+            <WrapPanel Orientation="Horizontal" Background="#f3f3f3">
+                <Button Background="Transparent" Padding="0" Margin="10" Command="{Binding GetPdf}" BorderBrush="Black" CommandParameter="{Binding ElementName=PdfViewer}" IsEnabled="{Binding EnableAddPdf}">
+                    <materialDesign:PackIcon Width="25" Height="25" Foreground="Red" Kind="FilePdf" />
+                </Button>
+
+                <Button Background="Transparent" Padding="0" Margin="10" Command="{Binding GetImage}" BorderBrush="Black" CommandParameter="{Binding ElementName=PdfViewer}">
+                    <materialDesign:PackIcon Width="25" Height="25" Foreground="DodgerBlue" Kind="Image" />
+                </Button>
+
+                <Button Background="Transparent" Padding="0" Margin="10" Command="{Binding PutText}" BorderBrush="Black" CommandParameter="{Binding ElementName=PdfViewer}">
+                    <materialDesign:PackIcon Width="25" Height="25" Foreground="DodgerBlue" Kind="FormatText" />
+                </Button>
+
+                <Button Background="Transparent" Padding="0" Margin="10" Command="{Binding SavePdf}" BorderBrush="Black" CommandParameter="{Binding ElementName=PdfViewer}">
+                    <materialDesign:PackIcon Width="25" Height="25" Foreground="DodgerBlue" Kind="ContentSave" />
+                </Button>
+            </WrapPanel>
+        </Border>
+        <Canvas Grid.Row="1" ZIndex="1">
+            <Button Canvas.Top="{Binding ElementName=ScrollViewerPdf, Path=Height, Converter={StaticResource HalfHeight}}" Margin="10" Width="50" Height="50" Padding="0" BorderThickness="0" BorderBrush="Transparent" Background="Transparent" Command="{Binding PreviousPage}">
+                <materialDesign:PackIcon Kind="ChevronLeft" Foreground="Gray" Width="50" Height="50"/>
+            </Button>
+            <Button Canvas.Top="{Binding ElementName=ScrollViewerPdf, Path=Height, Converter={StaticResource HalfHeight}}" 
+                    Canvas.Left="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}, Mode=FindAncestor}, Path=ActualWidth, Converter={StaticResource XPosition}}"
+                    Margin="10" Width="50" Height="50" Padding="0" BorderThickness="0" BorderBrush="Transparent" Background="Transparent" Command="{Binding NextPage}">
+                <materialDesign:PackIcon Kind="ChevronRight" Foreground="Gray" Width="50" Height="50"/>
+            </Button>
+        </Canvas>
+        <UserControl Grid.Row="1" Background="#d6d6d6">
+            <ScrollViewer Background="#d6d6d6" x:Name="ScrollViewerPdf" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Width="{Binding ElementName=Main, Path=WindowState}" Height="900">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Vertical"  Background="#d6d6d6">
+                    <Border x:Name="BorderHead" BorderBrush="Black" BorderThickness="1 1 1 0" Width="792" Height="187" >
+                        <Canvas x:Name="HeaderViewer" Width="790" Height="185" ClipToBounds="True" Background="White">
+                            <Canvas.InputBindings>
+                                <MouseBinding Gesture="LeftClick" Command="{Binding SelectedElement}" CommandParameter="{Binding ElementName=HeaderViewer}"/>
+                            </Canvas.InputBindings>
+                        </Canvas>
+                    </Border>
+                    <Border x:Name="BorderBody" BorderBrush="Black" BorderThickness="1" Width="792" Height="982" >
+                        <Canvas  x:Name="PdfViewer" Width="790" Height="980" ClipToBounds="True" Background="White">
+                            <Canvas.InputBindings>
+                                <MouseBinding Gesture="LeftClick" Command="{Binding SelectedElement}" CommandParameter="{Binding ElementName=PdfViewer}"/>
+                            </Canvas.InputBindings>
+                        </Canvas>
+                    </Border>
+                </StackPanel>
+            </ScrollViewer>
+            
+            
+        </UserControl>
+    </Grid>
+</Window>

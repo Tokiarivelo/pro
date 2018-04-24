@@ -1,0 +1,1 @@
+c:\users\toky\documents\visual studio 2015\Projects\DemoAngularSetup\DemoAngularSetup\obj\Debug\DemoAngularSetup.csprojResolveAssemblyReference.cache

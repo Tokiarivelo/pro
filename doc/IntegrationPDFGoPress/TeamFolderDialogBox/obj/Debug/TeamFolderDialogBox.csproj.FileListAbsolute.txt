@@ -1,0 +1,75 @@
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.exe.config
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.exe.manifest
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.application
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.exe
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox_MarkupCompile.cache
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox_MarkupCompile.lref
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\App.baml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.g.resources
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.Properties.Resources.resources
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.TrustInfo.xml
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.exe.manifest
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.application
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.exe
+C:\Users\admin\Desktop\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.exe.config
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.exe.manifest
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.application
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\TeamFolderDialogBox.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\MaterialDesignColors.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.csprojResolveAssemblyReference.cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\MainWindow.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\App.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox_MarkupCompile.cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox_MarkupCompile.lref
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\App.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\MainWindow.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.g.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.Properties.Resources.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.csproj.GenerateResource.Cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.TrustInfo.xml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.exe.manifest
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.application
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\IntegrationPDFGoPress\TeamFolderDialogBox\obj\Debug\TeamFolderDialogBox.pdb

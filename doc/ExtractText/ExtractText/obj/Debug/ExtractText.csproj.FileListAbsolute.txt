@@ -1,0 +1,17 @@
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\bin\Debug\ExtractText.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\bin\Debug\ExtractText.exe
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\bin\Debug\ExtractText.pdb
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\bin\Debug\Bytescout.PDFExtractor.dll
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\bin\Debug\Bytescout.PDFExtractor.OCRExtension.dll
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\bin\Debug\Bytescout.PDFExtractor.xml
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\MainWindow.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\App.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\ExtractText_MarkupCompile.cache
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\ExtractText_MarkupCompile.lref
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\MainWindow.baml
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\ExtractText.g.resources
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\ExtractText.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\ExtractText.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\ExtractText.exe
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\obj\Debug\ExtractText.pdb
+c:\users\toky\documents\visual studio 2015\Projects\ExtractText\ExtractText\bin\Debug\PdfExtract.dll

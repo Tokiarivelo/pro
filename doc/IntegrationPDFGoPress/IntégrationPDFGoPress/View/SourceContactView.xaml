@@ -1,0 +1,240 @@
+﻿<Window x:Class="IntégrationPDFGoPress.View.SourceContactView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntégrationPDFGoPress.View"
+        mc:Ignorable="d"
+        Title="SourceContactView" Height="600" Width="900"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:c1="http://schemas.componentone.com/winfx/2006/xaml"
+        DataContext="{Binding SourceContactVM,Source={StaticResource Locator}}"
+        x:Name="SourcesContact"
+        WindowStartupLocation="CenterScreen">
+    <Border BorderBrush="Black" BorderThickness="0,0,0,1">
+
+        <Grid x:Name="AppListMainGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="20" />
+            </Grid.RowDefinitions>
+            <!--  SP Pour les boutons Détail, Ajout, Refresh  -->
+            <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#F0F0F0">
+
+
+                <Button
+                    Padding="0"
+    Margin="20,5,0,5"
+    Background="#2490BE"
+    BorderThickness="0"
+        Height="25" Width="25"
+    Command="{Binding GoBack}"
+    Cursor="Hand"
+    ToolTip="Retour"
+                    CommandParameter="{Binding ElementName=SourcesContact}">
+                    <materialDesign:PackIcon
+                        Width="22" Height="22"
+        Foreground="white"
+        Kind="ArrowLeftBold" />
+                </Button>
+                <Button
+                    Padding="0"
+    Margin="20,0,0,0"
+    Background="#2490BE"
+    BorderThickness="0"
+        Height="25" Width="25"
+    Command="{Binding SaveContactAndBack}"
+    Cursor="Hand"
+    ToolTip="Retour"
+                     CommandParameter="{Binding ElementName=SourcesContact}">
+                    <materialDesign:PackIcon
+                        Width="22" Height="22"
+        Foreground="White"
+        Kind="ContentSave" />
+                </Button>
+                <Button
+                    Padding="0"
+        Margin="20,0,0,0"
+        Background="#2490BE"
+        BorderThickness="0"
+            Height="25" Width="25"
+        Command="{Binding ResetRoleSearchCommand}"
+        Cursor="Hand"
+        ToolTip="Retour">
+                    <materialDesign:PackIcon
+                Width="22" Height="22"
+            Foreground="White"
+            Kind="Refresh" />
+                </Button>
+
+            </StackPanel>
+            <Border
+        Grid.Row="1"
+        BorderBrush="Black"
+        BorderThickness="0,1,0,1">
+                <StackPanel Margin="0,0,0,0" Orientation="Horizontal">
+                    <TextBlock
+            Margin="6,10"
+            VerticalAlignment="Center"
+            Text="Filtre:" />
+                    <TextBox
+            x:Name="TextBoxSearch"
+            Width="300"
+            Height="25"
+            VerticalAlignment="Center"
+            AcceptsReturn="False"
+            Text="{Binding StringFilter, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+                        <TextBox.InputBindings>
+                            <KeyBinding Key="Enter" Command="{Binding GoToSearchContact}" />
+                        </TextBox.InputBindings>
+                    </TextBox>
+
+                    <Button
+                        Padding="0"
+          Width="25"
+          Height="25"
+          Margin="2,0,0,2"
+            BorderThickness="0"
+          Background="#2490BE"
+          Command="{Binding ResetRoleSearchCommand}">
+                        <materialDesign:PackIcon  
+                            Width="22" Height="22"
+              Foreground="White"
+              Kind="Close"  />
+                    </Button>
+                    <Button
+                        Padding="0"
+          Width="25"
+          Height="25"
+          Margin="2,0,0,2"
+            BorderThickness="0"
+          Background="#2490BE"
+          Command="{Binding GoToSearchContact}"
+          Cursor="Hand">
+                        <materialDesign:PackIcon
+                            Width="22" Height="22"
+              Foreground="White"
+              Kind="Magnify"/>
+                    </Button>
+
+
+                </StackPanel>
+            </Border>
+            <Border
+        Grid.Row="2"
+        BorderBrush="{x:Null}"
+        BorderThickness="0">
+                <c1:C1DataGrid
+          x:Name="ContactList"
+          Width="Auto"
+          AutoGenerateColumns="False"
+          BorderThickness="0,0,0,0"
+          IsReadOnly="True"
+          ItemsSource="{Binding ListMediaSummaries}"
+          SelectedItem="{Binding SelectedMediaSummary, Mode=TwoWay}">
+                    <c1:C1DataGrid.InputBindings>
+                        <MouseBinding Command="{Binding SaveContactAndBack}" MouseAction="LeftDoubleClick" CommandParameter="{Binding ElementName=SourcesContact}"/>
+                    </c1:C1DataGrid.InputBindings>
+                    <c1:C1AdvancedFiltersBehavior.AdvancedFiltersBehavior>
+                        <c1:C1AdvancedFiltersBehavior />
+                    </c1:C1AdvancedFiltersBehavior.AdvancedFiltersBehavior>
+                    <c1:C1DataGrid.Columns>
+                        
+                        <c1:DataGridTextColumn
+              Width="100"
+              Binding="{Binding MediaID, Mode=TwoWay}"
+              FilterMemberPath="MediaID"
+              Header="Media ID"
+              SortMemberPath="MediaID">
+                            <c1:DataGridBoundColumn.Filter>
+                                <c1:DataGridContentFilter>
+                                    <c1:DataGridMultiValueFilter
+                    MaxHeight="200"
+                    DisplayMemberPath="MediaID"
+                    ItemsSource="{Binding ListMediaSummaries}"
+                    ValueMemberPath="MediaID" />
+                                </c1:DataGridContentFilter>
+                            </c1:DataGridBoundColumn.Filter>
+                        </c1:DataGridTextColumn>
+                        
+                        <c1:DataGridTextColumn
+              Binding="{Binding MediaName, Mode=TwoWay}"
+              FilterMemberPath="MediaName"
+              Header="Media"
+              SortMemberPath="MediaName">
+                            <c1:DataGridBoundColumn.Filter>
+                                <c1:DataGridContentFilter>
+                                    <c1:DataGridMultiValueFilter
+                    MaxHeight="200"
+                    DisplayMemberPath="MediaName"
+                    ItemsSource="{Binding ListMediaSummaries}"
+                    ValueMemberPath="LastName" />
+                                </c1:DataGridContentFilter>
+                            </c1:DataGridBoundColumn.Filter>
+                        </c1:DataGridTextColumn>
+                        
+                        <c1:DataGridTextColumn
+              Binding="{Binding Country, Mode=TwoWay}"
+              FilterMemberPath="Country"
+              Header="Pays"
+              SortMemberPath="Country">
+                            <c1:DataGridBoundColumn.Filter>
+                                <c1:DataGridContentFilter>
+                                    <c1:DataGridMultiValueFilter
+                    MaxHeight="200"
+                    DisplayMemberPath="Country"
+                    ItemsSource="{Binding ListMediaSummaries}"
+                    ValueMemberPath="FIRSTNAME" />
+                                </c1:DataGridContentFilter>
+                            </c1:DataGridBoundColumn.Filter>
+                        </c1:DataGridTextColumn>
+                        
+                        <c1:DataGridTextColumn
+              Binding="{Binding MediaType, Mode=TwoWay}"
+              FilterMemberPath="MediaType"
+              Header="Type de Media"
+              SortMemberPath="MediaType">
+                            <c1:DataGridBoundColumn.Filter>
+                                <c1:DataGridContentFilter>
+                                    <c1:DataGridMultiValueFilter
+                    MaxHeight="200"
+                    DisplayMemberPath="MediaType"
+                    ItemsSource="{Binding ListMediaSummaries}"
+                    ValueMemberPath="MediaType" />
+                                </c1:DataGridContentFilter>
+                            </c1:DataGridBoundColumn.Filter>
+                        </c1:DataGridTextColumn>
+
+                        <c1:DataGridTextColumn
+              Width="180"
+              Binding="{Binding Periodicity, Mode=TwoWay}"
+              FilterMemberPath="Periodicity"
+              Header="Périodicité"
+              SortMemberPath="Periodicity">
+                            <c1:DataGridBoundColumn.Filter>
+                                <c1:DataGridContentFilter>
+                                    <c1:DataGridMultiValueFilter
+                    MaxHeight="200"
+                    DisplayMemberPath="Periodicity"
+                    ItemsSource="{Binding ListMediaSummaries}"
+                    ValueMemberPath="Periodicity" />
+                                </c1:DataGridContentFilter>
+                            </c1:DataGridBoundColumn.Filter>
+                        </c1:DataGridTextColumn>
+
+                    </c1:C1DataGrid.Columns>
+                </c1:C1DataGrid>
+            </Border>
+            <Border
+        Grid.Row="3"
+        BorderBrush="Black"
+        BorderThickness="0,1,0,0">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5,0,0,0" Text="{Binding ResultCount}" />
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Border>
+</Window>

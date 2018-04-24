@@ -1,0 +1,18 @@
+﻿
+@model ExerciseASP.ViewModel.CustomerViewModel
+
+@{
+    ViewBag.Title = "Customers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="list-group" style=" margin: 50px">
+    <p class="list-group-item active"> @ViewBag.Title </p>
+    @foreach (var customer in Model.ListCustomer)
+    {
+        <a class="list-group-item" href="/Customers/Detail/@customer.Id"> @customer.CustomerName </a>
+    }
+
+</div>
+
+

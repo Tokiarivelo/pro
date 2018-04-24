@@ -1,0 +1,12 @@
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\ExtractWithTesseract.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\x64\liblept172.dll
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\x64\libtesseract304.dll
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\x86\liblept172.dll
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\x86\libtesseract304.dll
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\ExtractWithTesseract.exe
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\ExtractWithTesseract.pdb
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\Tesseract.dll
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\bin\Debug\Tesseract.xml
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\obj\Debug\ExtractWithTesseract.csprojResolveAssemblyReference.cache
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\obj\Debug\ExtractWithTesseract.exe
+c:\users\toky\documents\visual studio 2015\Projects\ExtractWithTesseract\ExtractWithTesseract\obj\Debug\ExtractWithTesseract.pdb

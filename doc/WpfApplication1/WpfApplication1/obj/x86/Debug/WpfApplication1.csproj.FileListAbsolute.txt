@@ -1,0 +1,16 @@
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\WpfApplication1.exe.config
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\WpfApplication1.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\WpfApplication1.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\x86\Debug\tessnet2_32.dll
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_Content.g.cs
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\toky\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache

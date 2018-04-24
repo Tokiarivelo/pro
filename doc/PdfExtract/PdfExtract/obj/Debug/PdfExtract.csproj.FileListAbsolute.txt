@@ -1,0 +1,15 @@
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\bin\Debug\PdfExtract.exe.config
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\bin\Debug\PdfExtract.exe
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\bin\Debug\PdfExtract.pdb
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\PdfExtract.csprojResolveAssemblyReference.cache
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\MainWindow.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\App.g.cs
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\PdfExtract_MarkupCompile.cache
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\PdfExtract_MarkupCompile.lref
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\MainWindow.baml
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\PdfExtract.g.resources
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\PdfExtract.Properties.Resources.resources
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\PdfExtract.csproj.GenerateResource.Cache
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\PdfExtract.exe
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\obj\Debug\PdfExtract.pdb
+c:\users\toky\documents\visual studio 2015\Projects\PdfExtract\PdfExtract\bin\Debug\PdfExtract.dll
